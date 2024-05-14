@@ -1,21 +1,19 @@
-## <span font-size: 20px, font-weight: 400> Parametrize Django templates to display different languages </span>
-
+# Parametrize Django templates to display different languages 
 Infer the correct locale based on URL parameters, user settings, or request headers
 Localize timestamps
 
-## <span font-size: 20px, font-weight: 400> 1. Parametrize Django Templates to Display Different Languages </span>
+# 1. Parametrize Django Templates to Display Different Languages
 
 Django provides robust support for translating strings in templates.
 
-## <span font-size: 20px, font-weight: 400>Step-by-Step Guide:</span>
-
+# Step-by-Step Guide:
 Enable Localization in Your Settings:
 Ensure your settings.py is configured for i18n.
 
 python
 Copy code
 
-## <span font-size: 20px, font-weight: 400> settings.py </span>
+# settings.py
 
 LANGUAGE_CODE = 'en-us'
 USE_I18N = True
@@ -26,7 +24,7 @@ LANGUAGES = [
 ('en', 'English'),
 ('es', 'Spanish'),
 
-## <span font-size: 20px, font-weight: 400> Add other languages here </span>
+# Add other languages here
 
 ]
 
@@ -90,7 +88,7 @@ Configure your URL patterns to include language codes.
 python
 Copy code
 
-##<span font-size: 20px, font-weight: 400> urls.py</span>
+#  urls.py
 
 from django.conf.urls.i18n import i18n_patterns
 from django.urls import path
@@ -98,7 +96,7 @@ from . import views
 
 urlpatterns = [
 
-## <<span font-size: 20px, font-weight: 400> Your normal URLs here... </span>
+# Your normal URLs here...
 
 ]
 
@@ -148,7 +146,7 @@ Configure your settings.py for timezone support.
 python
 Copy code
 
-## <span font-size: 20px, font-weight: 400> settings.py </span>
+# settings.py 
 
 TIME_ZONE = 'UTC'
 USE_TZ = True
