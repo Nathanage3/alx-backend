@@ -71,12 +71,12 @@ Each project has its own set of dependencies. Please refer to the requirements.t
 
 (Developer Note: I highly recommend adding a simple README.md inside each project folder with specific 1-2-3 steps on how to install and run that project. This shows professionalism!)
 
-👤 Author
+**👤 Author**
 
-[YOUR NAME]
+Sisay Alemayehu
 
-Upwork Profile: [LINK TO YOUR UPWORK PROFILE]
+Upwork Profile: https://upwork.com/freelancers/~015945afc425acd0da
 
-LinkedIn: [LINK TO YOUR LINKEDIN]
+LinkedIn: https://www.linkedin.com/in/nathan-hailu/
 
-GitHub: [LINK TO YOUR GITHUB]
+GitHub: https://github.com/nathanage3
