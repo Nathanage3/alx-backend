@@ -1,88 +1,51 @@
-Advanced Backend Engineering Projects
+# Advanced Backend Engineering Projects
 
-Note to Employers & Recruiters
+**Note to Employers & Recruiters**
 
 This repository contains a collection of projects completed as part of my ALX Africa advanced backend specialization. Each directory (0x00- through 0x03-) is a self-contained project built to demonstrate mastery of a specific, complex backend engineering concept.
 
 These projects showcase my ability to write high-performance, scalable, and maintainable server-side code.
 
-🚀 Project Showcase
+**🚀 Project Showcase**
 
 This portfolio highlights my hands-on experience with the following core backend challenges:
 
-Project Directory
+Project Directory &emsp;&emsp;&emsp; Concept / Skill Demonstrated &emsp;&emsp;&emsp; Key Technologies
 
-Concept / Skill Demonstrated
+0x00-pagination&emsp;&emsp;&emsp;&emsp;Advanced API Pagination&emsp;&emsp;&emsp;&emsp;&emsp;Python, Flask / Django, REST API Design
 
-Key Technologies
-
-0x00-pagination
-
-Advanced API Pagination
-
-Python, Flask / Django, REST API Design
-
-
+<br />
 
 This project demonstrates various pagination techniques (e.g., page-based, cursor-based) for efficiently serving large datasets from an API. It focuses on performance and creating clean, easy-to-use API responses.
 
+<br />
 
+0x01-caching&emsp;&emsp;&emsp;&emsp;Performance Caching&emsp;&emsp;&emsp;&emsp;Python, Redis, Memcached, Caching Algorithms
 
-
-
-
-
-
-
-0x01-caching
-
-Performance Caching
-
-Python, Redis, Memcached, Caching Algorithms
-
-
+<br />
 
 Implements in-memory caching to dramatically speed up application response times. This project explores different caching strategies (like FIFO, LIFO, LRU) and integration with tools like Redis to reduce database load.
 
+<br />
 
+0x02-i18n&emsp;&emsp;&emsp;&emsp;Internationalization (i18n)&emsp;&emsp;&emsp;&emsp;Python, Flask-Babel, Jinja2, Localization
 
-
-
-
-
-
-
-0x02-i18n
-
-Internationalization (i18n)
-
-Python, Flask-Babel, Jinja2, Localization
-
-
+<br />
 
 Focuses on adapting a web application to support multiple languages and regions. This includes translating text, formatting dates and currencies, and managing user-specific locales, making an application globally accessible.
 
 
+<br />
+
+0x03-queuing_system_in_js&emsp;&emsp;&emsp;&emsp;Background Job & Message Queuing&emsp;&emsp;&emsp;&emsp;Node.js, JavaScript, Redis, Kue / RabbitMQ
 
 
-
-
-
-
-
-0x03-queuing_system_in_js
-
-Background Job & Message Queuing
-
-Node.js, JavaScript, Redis, Kue / RabbitMQ
-
-
-
+<br />
 This project builds a system for handling asynchronous background tasks. It includes creating job queues, writing worker processes to consume jobs, and managing job lifecycles (success, failure, retry), which is essential for scalable applications.
+<br />
 
 
-
-🛠️ Key Skills Demonstrated
+**🛠️ Key Skills Demonstrated**
 
 The projects in this repository collectively showcase my proficiency in:
 
@@ -96,7 +59,7 @@ Software Globalization: Implementing i18n and localization to prepare applicatio
 
 DevOps & Tooling: Working with Redis, message brokers (Kue, RabbitMQ), and modern Python/JavaScript environments.
 
-📦 How to Explore
+**📦 How to Explore**
 
 Each directory is a standalone project. To run any of them:
 
