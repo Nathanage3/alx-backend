@@ -10,7 +10,7 @@ These projects showcase my ability to write high-performance, scalable, and main
 
 This portfolio highlights my hands-on experience with the following core backend challenges:
 
-Project Directory &emsp;&emsp;&emsp; Concept / Skill Demonstrated &emsp;&emsp;&emsp; Key Technologies
+**Project Directory** &emsp;&emsp;&emsp; **Concept / Skill Demonstrated** &emsp;&emsp;&emsp; **Key Technologies**
 
 0x00-pagination&emsp;&emsp;&emsp;&emsp;Advanced API Pagination&emsp;&emsp;&emsp;&emsp;&emsp;Python, Flask / Django, REST API Design
 
